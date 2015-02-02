@@ -1,0 +1,19 @@
+{
+  "name": "icomoon-free",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Keyamoon/IcoMoon-Free",
+  "authors": [
+    "IcoMoon"
+  ],
+  "description": "A package of flat vector icons together with an installable ligature font",
+  "keywords": [
+    "icon",
+    "font",
+    "svg",
+    "social"
+  ],
+  "license": [
+    "GPL-3.0",
+    "CC-BY-4.0"
+  ]
+}
